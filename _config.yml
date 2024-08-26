@@ -1,7 +1,7 @@
 site: Board Jekyll Theme
 
-url: https://Dotagoodgogo.github.io
-baseurl: Dotagoodgogo.github.io
+url: 
+baseurl: 
 
 collections:
   pages:
